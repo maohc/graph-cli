@@ -1,4 +1,4 @@
-# graph-resolver
+# graph-cli
 
 Build: mvn clean package
 
