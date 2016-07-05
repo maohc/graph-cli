@@ -12,7 +12,7 @@ public class App {
 			String commandsFileLocation = args[1];
 			commandExecutor.execute(graphFileLocation, commandsFileLocation);
 		} else {
-			System.err.append("Usage: java -jar target/trains-1.0-SNAPSHOT.jar graph.txt commands.txt");
+			System.err.append("Usage: java -jar target/graph-1.0-SNAPSHOT.jar graph.txt commands.txt");
 		}
 	}
 
