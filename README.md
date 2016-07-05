@@ -1,4 +1,4 @@
-# graph-challenge
+# graph-resolver
 
 Build: mvn clean package
 
