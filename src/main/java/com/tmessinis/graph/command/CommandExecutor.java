@@ -1,4 +1,4 @@
-package com.tmessinis.graph;
+package com.tmessinis.graph.command;
 
 public interface CommandExecutor {
 

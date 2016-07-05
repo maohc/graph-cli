@@ -1,4 +1,4 @@
-package com.tmessinis.graph;
+package com.tmessinis.graph.command;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -6,9 +6,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.logging.Logger;
 
-import com.tmessinis.graph.command.CommandBase;
-import com.tmessinis.graph.command.CommandVisitor;
-import com.tmessinis.graph.command.CommandVisitorImpl;
 import com.tmessinis.graph.command.factory.CommandFactory;
 import com.tmessinis.graph.command.factory.CommandFactoryImpl;
 import com.tmessinis.graph.element.Graph;
