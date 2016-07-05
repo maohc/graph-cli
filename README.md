@@ -4,13 +4,13 @@ Build: mvn clean package
 
 Usage: java -jar target/graph-1.0-SNAPSHOT.jar graph.txt commands.txt
 
-# Description of Graph: 
+# Description of Graph (graph.txt): 
 
 Format: [Node1][Node2][Distance]
 
 AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
 
-# Support various graph commands :
+# Graph commands (commands.txt):
 
 DISTANCE_OF_PATH ABC
 
