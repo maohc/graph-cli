@@ -4,12 +4,12 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import com.tmessinis.graph.constraint.Constraint;
+import com.tmessinis.graph.constraint.ConstraintImpl;
+import com.tmessinis.graph.constraint.Operator;
 import com.tmessinis.graph.constraint.Type;
 import com.tmessinis.graph.constraint.factory.ConstraintFactory;
 import com.tmessinis.graph.constraint.factory.ConstraintFactoryImpl;
-import com.tmessinis.graph.contstraint.Constraint;
-import com.tmessinis.graph.contstraint.ConstraintImpl;
-import com.tmessinis.graph.contstraint.Operator;
 
 
 public class ConstraintFactoryTest {

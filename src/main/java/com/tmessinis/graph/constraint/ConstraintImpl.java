@@ -1,6 +1,5 @@
-package com.tmessinis.graph.contstraint;
+package com.tmessinis.graph.constraint;
 
-import com.tmessinis.graph.constraint.Type;
 import com.tmessinis.graph.element.PathStats;
 
 public class ConstraintImpl implements Constraint {

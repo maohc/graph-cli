@@ -1,4 +1,4 @@
-package com.tmessinis.graph.contstraint;
+package com.tmessinis.graph.constraint;
 
 public enum Operator {
 	EQUAL("=") {

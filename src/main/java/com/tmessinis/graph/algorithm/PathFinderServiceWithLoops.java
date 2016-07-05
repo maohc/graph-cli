@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.Stack;
 
-import com.tmessinis.graph.contstraint.Constraint;
+import com.tmessinis.graph.constraint.Constraint;
 import com.tmessinis.graph.element.Graph;
 
 

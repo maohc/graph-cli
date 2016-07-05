@@ -1,6 +1,6 @@
 package com.tmessinis.graph.constraint.factory;
 
-import com.tmessinis.graph.contstraint.Constraint;
+import com.tmessinis.graph.constraint.Constraint;
 
 public interface ConstraintFactory {
 

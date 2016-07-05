@@ -1,6 +1,6 @@
 package com.tmessinis.graph.algorithm;
 
-import com.tmessinis.graph.contstraint.ConstraintImpl;
+import com.tmessinis.graph.constraint.ConstraintImpl;
 import com.tmessinis.graph.element.Graph;
 import com.tmessinis.graph.element.Node;
 

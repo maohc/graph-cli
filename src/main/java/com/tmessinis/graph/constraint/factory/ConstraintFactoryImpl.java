@@ -1,9 +1,9 @@
 package com.tmessinis.graph.constraint.factory;
 
+import com.tmessinis.graph.constraint.Constraint;
+import com.tmessinis.graph.constraint.ConstraintImpl;
+import com.tmessinis.graph.constraint.Operator;
 import com.tmessinis.graph.constraint.Type;
-import com.tmessinis.graph.contstraint.Constraint;
-import com.tmessinis.graph.contstraint.ConstraintImpl;
-import com.tmessinis.graph.contstraint.Operator;
 
 /**
  * Parse Constraint from Command Line [DISTANCE, STOPS] [GREATER_THAN,

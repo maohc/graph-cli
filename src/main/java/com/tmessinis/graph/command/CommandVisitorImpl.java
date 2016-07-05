@@ -6,10 +6,10 @@ import com.tmessinis.graph.algorithm.PathFinderService;
 import com.tmessinis.graph.algorithm.PathFinderServiceImpl;
 import com.tmessinis.graph.algorithm.TraversalService;
 import com.tmessinis.graph.algorithm.TraversalServiceImpl;
+import com.tmessinis.graph.constraint.ConstraintImpl;
+import com.tmessinis.graph.constraint.ConstraintdUtil;
 import com.tmessinis.graph.constraint.factory.ConstraintFactory;
 import com.tmessinis.graph.constraint.factory.ConstraintFactoryImpl;
-import com.tmessinis.graph.contstraint.ConstraintImpl;
-import com.tmessinis.graph.contstraint.ConstraintdUtil;
 
 public class CommandVisitorImpl implements CommandVisitor {
 

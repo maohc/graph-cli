@@ -1,6 +1,4 @@
-package com.tmessinis.graph.contstraint;
-
-import com.tmessinis.graph.constraint.Type;
+package com.tmessinis.graph.constraint;
 
 public class ConstraintdUtil {
 

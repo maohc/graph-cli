@@ -8,9 +8,9 @@ import java.util.Set;
 import java.util.Stack;
 //import java.util.logging.Logger;
 
-import com.tmessinis.graph.contstraint.Constraint;
-import com.tmessinis.graph.contstraint.ConstraintImpl;
-import com.tmessinis.graph.contstraint.Operator;
+import com.tmessinis.graph.constraint.Constraint;
+import com.tmessinis.graph.constraint.ConstraintImpl;
+import com.tmessinis.graph.constraint.Operator;
 import com.tmessinis.graph.element.Edge;
 import com.tmessinis.graph.element.Graph;
 import com.tmessinis.graph.element.Node;
